@@ -11,5 +11,14 @@
     <string name="userlogin">Usuario o correo</string>
     <string name="userpassword">Password</string>
     <string name="btnSingRegister">Registro</string>
+    <string name="title_activity_professionalsheet">Professional Sheet</string>
+    <string name="txtprofuser">User</string>
+    <string name="txtprofpostalcode">08004</string>
+    <string name="txtprofphone">+34 93</string>
+    <string name="txtprofpassword">Password</string>
+    <string name="btnprofregister">Registro</string>
+    <string name="txtprofmail">pepe@mail.com</string>
+    <string name="txtprofmunicipio">Municipio</string>
+    <string name="txtprofprofesion">Profesión</string>
 
 </resources>
