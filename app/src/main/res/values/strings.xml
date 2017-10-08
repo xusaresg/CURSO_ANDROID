@@ -1,0 +1,15 @@
+<resources>
+    <!-- Strings para  activitys -->
+    <string name="app_name">Bank_Time_Personal_2017</string>
+    <string name="title_activity_login">Entrada o Registro</string>
+
+    <!-- Strings para cover -->
+    <string name="btncover">Empezar</string>
+
+
+    <!-- Strings para login -->
+    <string name="userlogin">Usuario o correo</string>
+    <string name="userpassword">Password</string>
+    <string name="btnSingRegister">Registro</string>
+
+</resources>
